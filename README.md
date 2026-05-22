@@ -74,7 +74,7 @@ class YousefAsalya {
 
 ## 📦 Products We Ship
 
-### 🧠 [Islamic Pro](https://islamicpro.northplusstudio.com/)
+### 🌙 [Islamic Pro](https://islamicpro.northplusstudio.com/)
 Your Complete Daily Islamic Companion — Prayer, Quran & Remembrance.
 [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/islamic-pro-quran-prayer-times/id6761655863)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.northstudio.islamicpro)
